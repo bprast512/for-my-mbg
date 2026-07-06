@@ -1114,4 +1114,66 @@ transform:translateY(-10px);
 
 }
 
+}/* ===========================
+   MOBILE
+=========================== */
+
+@media (max-width:768px){
+
+.hero{
+    min-height:100vh;
+    padding:40px 20px;
+}
+
+.content{
+    width:100%;
+    max-width:100%;
+    padding:0;
+}
+
+.small{
+    font-size:11px;
+    letter-spacing:4px;
+}
+
+h1{
+    font-size:56px;
+    line-height:1.1;
+}
+
+.subtitle{
+    font-size:18px;
+    margin-bottom:30px;
+}
+
+.gift-card{
+    width:100%;
+    max-width:100%;
+    padding:30px 20px;
+}
+
+.gift-card h2{
+    font-size:38px;
+}
+
+.gift-card p{
+    font-size:18px;
+    line-height:1.8;
+}
+
+.next-btn{
+    width:100%;
+    max-width:300px;
+    display:block;
+    margin:30px auto 0;
+    text-align:center;
+}
+
+.moon{
+    width:130px;
+    height:130px;
+    top:50px;
+    right:-25px;
+}
+
 }
