@@ -39,7 +39,7 @@ Semoga setiap halaman yang kamu buka bisa mengingatkan bahwa ada seseorang yang 
 
 Semoga semua impianmu satu per satu menjadi nyata.
 
-Tetap jadi Nurani yang selalu aku kenal.
+Tetap jadi Dyas my mbg yang selalu aku kenal.
 
 Happy Birthday.
 
